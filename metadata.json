@@ -1,0 +1,5 @@
+{
+  "name": "极简饮食记录",
+  "description": "一款极简的自定义饮食记录工具，支持手动设置营养目标、自建食物库及每日四餐快速记录。",
+  "requestFramePermissions": []
+}
