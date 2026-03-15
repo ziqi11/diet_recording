@@ -1,0 +1,21 @@
+{
+  "name": "极简饮食记录",
+  "short_name": "饮食记录",
+  "description": "一款极简的自定义饮食记录工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/diet-app-192/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/diet-app-512/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
